@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.first {
+    height: 100vh;
+    width: 100%;
+    background-color: dodgerblue;
+    overflow: hidden;
+}
+
+.second {
+    height: 100vh;
+    width: 100%;
+    background-color: #ff5f45;
+    overflow: hidden;
+}
+
+.third {
+    height: 100vh;
+    width: 100%;
+    background-color: #fc6c7c;
+    overflow: hidden;
+}
+
+.fourth{
+    height: 100vh;
+    width: 100%;
+    background-color: #fec401;
+    overflow: hidden;
+    text-align: center;
+}
+
+.main {
+    padding: 7em 0;
+    line-height: 1px;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.welcome {
+    font-weight: lighter;
+    letter-spacing: 5px;
+    font-size: 3em;
+}
+
+.port {
+    font-weight: bolder;
+    color: white;
+    font-size: 10em;
+    position: relative;
+    bottom: 0.3em;
+}
+
+.aside {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1em 0;
+    overflow: hidden;
+}
+
+.ouss {
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 12px;
+    text-decoration: none;
+}
+
+.headed :hover {
+    color: midnightblue;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 4px;
+    padding: 0;
+    float: right;
+    display: table;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a:hover {
+    background-color: midnightblue;
+}
+
+.menu li a {
+    padding: 12px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.present {
+    color: white;
+    font-weight: bolder;
+    font-size: 45px;
+    height: 0;
+    text-decoration: underline;
+    padding-left: 20vh;
+}
+
+.me {
+    color: white;
+    font-size: large;
+    width: 450px;
+}
+
+.project-container {
+    height: 360px;
+    width: 12.5em;
+    float: left;
+    background-color: white;
+    margin: 8em 2em 0 2em;
+    padding: 2em 2em 3em 2em;
+    border-radius: 40px;
+    text-align: left;
+    position: relative;
+    bottom: 6.5em;
+    box-shadow: 2px 5px 16px 1px rgba(68,68,68,0.6);
+}
+
+.project {
+    width: 200px;
+    color: #fc6c7c;
+    font-weight: bolder;
+    font-size: 30PX;
+    height: 1px;
+    position: relative;
+    bottom: 0.5em
+}
+
+.project-img {
+    height: 150px;
+    width: 200px;
+}
+
+.project-img:hover{
+    transform: scale(1.1);
+}
+
+.project-des {
+    width: 200px;
+    color: #fc6c7c;
+    font-weight: 400;
+}
+.projects{
+    color: white;
+    font-weight: bolder;
+    font-size: 45px;
+    text-decoration: underline;
+    height: 1px;
+    margin-left: 1em;
+    position: relative;
+    bottom: 20px;
+}
+.git{
+    position: relative;
+    bottom: 6.5em;
+    float: right;
+    margin: 2em 2em ;
+    color: white;
+    font-weight: lighter;
+}
+
+.follow{
+    font-weight: bold;
+    color: white;
+    font-size: 8em;
+    padding-top: 48px;
+}
+.social{
+    align-items: center;
+}
+
+.icon{
+    width: 72px;
+    height: 72px;
+    padding-left: 22px;
+    position: relative;
+    bottom: 5em;
+}
+
+.icon:hover{
+    transform: scale(1.2);
+}

@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Oussama's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "develop": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "author": "Oussama Hassini",
+  "license": "ISC",
+  "dependencies": {
+    "fullpage.js": "^3.0.8",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {
+    "lodash-es": "^4.17.15",
+    "panelsnap": "^1.3.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
