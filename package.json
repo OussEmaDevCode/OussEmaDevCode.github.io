@@ -10,7 +10,7 @@
   "author": "Oussama Hassini",
   "license": "ISC",
   "dependencies": {
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "jquery": "^3.4.1",
     "lite-server": "^2.5.4"
   },
