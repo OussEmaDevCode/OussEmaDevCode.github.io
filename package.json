@@ -18,6 +18,6 @@
     "lodash-es": "^4.17.15",
     "panelsnap": "^1.3.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
